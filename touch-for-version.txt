@@ -1,2 +1,2 @@
-New commit to work around this known issue
+New commit to work around this known issue, force sync
 https://github.com/aws/aws-proton-public-roadmap/issues/70
